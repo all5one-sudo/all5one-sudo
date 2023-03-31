@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fedevillar92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fedevillar92" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/federico-villar-862270191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-villar-862270191" height="30" width="40" /></a>
-<a href="https://fb.com/th5shooter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="th5shooter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/federicoVillar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-villar-862270191" height="30" width="40" /></a>
+<a href="https://fb.com/fedev18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="th5shooter" height="30" width="40" /></a>
 <a href="https://instagram.com/fedev18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fedev18" height="30" width="40" /></a>
 </p>
 
