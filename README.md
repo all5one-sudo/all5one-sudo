@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Control Systems, Machine Learning and Image Processing**
 
-- 💬 Ask me about **c++, java or python**
+- 💬 Ask me about **C++, Java or Python**
 
 - 📫 How to reach me **fedefedev@gmail.com**
 
