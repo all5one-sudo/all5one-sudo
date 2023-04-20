@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Federico Villar</h1>
+<h1 align="center">Hi 👋, I'm Fede</h1>
 <h3 align="center">A passionate DIY hobbyist. Currently studying at FCEFyN UNC.</h3>
 
 - 🌱 I’m currently learning **Control Systems, Machine Learning and Image Processing**
